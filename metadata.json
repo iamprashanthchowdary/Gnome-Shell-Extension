@@ -1,0 +1,8 @@
+{
+  "uuid": "cpu-monitor@prashanth",
+  "name": "CPU Icon",
+  "description": "Just an icon in the top bar",
+  "version": 1,
+  "shell-version": ["46"],
+  "session-modes": ["user"]
+}
